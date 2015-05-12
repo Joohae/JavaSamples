@@ -1,0 +1,3 @@
+[submodule "JAVA_GOFPatterns"]
+	path = JAVA_GOFPatterns
+	url = https://github.com/Joohae/JAVA_GOFPatterns.git
